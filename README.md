@@ -1,15 +1,15 @@
 ![capa-  buscador de cep](https://github.com/user-attachments/assets/d238f52a-481d-4139-91fe-fa6f6eec9959)
 
-##  Introdução
+## 🎯 Introdução
 
 Projeto buscador de cep onde o usuario digita algum cep e exibe os dados na tela, foi utilizado a api publica **viacep** para consumir os dados
 
 
-### Guia de instalação
+### ⚙️ Guia de instalação
 
 Acessar apartir deste <a href='https://buscador-de-cep.vercel.app'>endereço</a>
 
-### Tecnologias utilizadas
+### ⚒️ Tecnologias utilizadas
 
 <div>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='logo do HTML'>
@@ -18,10 +18,10 @@ Acessar apartir deste <a href='https://buscador-de-cep.vercel.app'>endereço</a>
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='logo do REACT'>
 </div>
 
-### Autores / Colaboradores
+### 👨‍💻 Autores / Colaboradores
 
 - **João Vitor** - Frontend do projeto - [João Vitor](linkedin.com/in/joão-vitor-souzaa)
 
-### Licensa
+### 📃 Licensa
 
 Este projeto está sob a licensa [MIT]()
